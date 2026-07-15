@@ -1,2 +1,3 @@
 # kai-demo-orders
-Demo repo to test seed_files / CODEOWNERS via Terraform.
+
+Demo repo seeded via Terraform to test seed_files / CODEOWNERS.
